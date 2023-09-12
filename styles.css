@@ -39,3 +39,29 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.btn {
+  align-items: center;
+  justify-content: center;
+  margin-left: 46%;
+  margin-top: 40px;
+
+  background-color: rgb(151, 21, 21); /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+} 
+
+.btn:hover {
+  background-color: #232931;
+  color: white;
+}
+
+.btn {
+  
+}
